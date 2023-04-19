@@ -1,0 +1,2 @@
+Ball_detections_data_2
+50 epochs
